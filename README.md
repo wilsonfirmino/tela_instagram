@@ -1,2 +1,2 @@
 # tela_instagram
-Tela inicial do Instagram
+Tela inicial da interface de login do Instagram!
